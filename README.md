@@ -5,7 +5,7 @@
 <li><a href='#bootcamp'>Bootcamp Style</a></li>
 <li><a href ='#books'>Books</a></li>
 <li><a href='#youtube'>YouTube Channels</a></li>
-<li><a href='#html'>HTML/CSS</a></li>
+<li><a href='#css'>CSS</a></li>
 <li><a href='#javascript'>JavaScript</a></li>
 <li><a href='#frameworks'>JavaScript Frameworks</a></li>
 <li><a href='#node'>Node.js</a></li>
@@ -18,10 +18,19 @@
 <h3>-In No Particular Order-</h3>
 
 <br>
+<img id='roadmap' src="https://d30y9cdsu7xlg0.cloudfront.net/png/316620-200.png" alt="bootcamp logo">
+<li><a href="https://frontendmasters.com/books/front-end-handbook/2017/">Web Developer RoadMap</a></li>
+<li><a href="https://www.youtube.com/watch?v=sBzRwzY7G-k&t=1183s">2016/2017 MUST-KNOW WEB DEVELOPMENT TECH</a></li>
+<li><a href="https://frontendmasters.com/books/front-end-handbook/2017/">Frontend Handbook 2017</a></li>
+<ul>
+  
+<br>
 <img id='bootcamp' src="https://cdn1.iconfinder.com/data/icons/customicondesign-office-shadow/128/Courses.png" alt="bootcamp logo">
 <h4>Bootcamp Style</h4>
 <ul>
-<li><a href="https://teamtreehouse.com/home">Team Treehouse</a> *Paid*</li>
+<li><a href="https://beta.freecodecamp.com/">FreeCodeCamp - beta (more up-to-date)</a></li>
+<li><a href="https://developers.google.com/training/web/">Google Developer Training</a></li>
+<li><a href="https://www.codecademy.com/">Code Academy</a></li>
 </ul>
 
 <br>
@@ -32,8 +41,8 @@
 </ul>
 
 <br>
-<img id='html' src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_286-128.png" alt="html logo">
-<h4>HTML/CSS</h4>
+<img id='css' src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700035-icon-77-document-file-css-128.png" alt="html logo">
+<h4>CSS</h4>
 <ul>
 <li><a href="https://arkmont.com/the-ultimate-html-developer-course/">The Ultimate HTML Developer</a></li>
 </ul>
