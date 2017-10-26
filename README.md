@@ -9,7 +9,8 @@
 <li><a href='#javascript'>JavaScript</a></li>
 <li><a href='#frameworks'>JavaScript Frameworks</a></li>
 <li><a href='#node'>Node.js</a></li>
-<li><a href='#assorted'>Assorted Tools/Sites</a></li>
+<li><a href='#tools'>Assorted Tools/Sites</a></li>
+<li><a href='#others'>Others</a></li>
 <li><a href='#jobs'>Jobs</a></li>
 </ol>
 
@@ -19,7 +20,7 @@
 
 <br>
 <img id='roadmap' src="https://d30y9cdsu7xlg0.cloudfront.net/png/316620-200.png" alt="bootcamp logo">
-<li><a href="https://frontendmasters.com/books/front-end-handbook/2017/">Web Developer RoadMap</a></li>
+<li><a href="https://github.com/kamranahmedse/developer-roadmap">Web Developer RoadMap</a></li>
 <li><a href="https://www.youtube.com/watch?v=sBzRwzY7G-k&t=1183s">2016/2017 MUST-KNOW WEB DEVELOPMENT TECH</a></li>
 <li><a href="https://frontendmasters.com/books/front-end-handbook/2017/">Frontend Handbook 2017</a></li>
 <ul>
@@ -37,7 +38,13 @@
 <img id='youtube' src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-128.png" alt="youtube logo">
 <h4>YouTube Channels</h4>
 <ul>
-<li><a href="https://www.youtube.com/user/LevelUpTuts">Level Up Tuts</a></li>
+<li><a href="https://https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Traversy Media</a></li>
+<li><a href="https://https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">The Net Ninja</a></li>
+<li><a href="https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw">LearnCode.academy</a></li>
+<li><a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q">Fun Fun Function</a></li>
+<li><a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">FreeCodeCamp</a></li>
+<li><a href="https://www.youtube.com/channel/UCf5CgGVs6zEq6DUtyFw9e-Q">Turbo360</a></li>
+<li><a href="https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/videos">Coding Tech</a></li>
 </ul>
 
 <br>
@@ -72,11 +79,17 @@
 </ul>
 
 <br>
-<img id='assorted' src="https://cdn3.iconfinder.com/data/icons/social-circle/512/647404-share-128.png" alt="links logo">
+<img id='tools' src="http://www.iconarchive.com/download/i29196/rade8/minium-2/Sidebar-Utilities.ico" alt="links logo">
 <h4>Assorted Tools/Sites</h4>
 <ul>
-<li><a href="https://overapi.com">Over API</a></li>
+<li><a href="https://https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw">Loi Liang Yang - Cyber Security</a></li>
+</ul>
 
+<br>
+<img id='others' src="https://cdn3.iconfinder.com/data/icons/social-circle/512/647404-share-128.png" alt="links logo">
+<h4>Others</h4>
+<ul>
+<li><a href="https://https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw">Loi Liang Yang - Cyber Security</a></li>
 </ul>
 
 <br>
