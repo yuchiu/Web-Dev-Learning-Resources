@@ -100,7 +100,6 @@
 
 <br>
 <img id='jobs' src="https://cdn2.iconfinder.com/data/icons/mixed-rounded-flat-icon/512/briefcase-128.png" alt="job logo">
-<h4>Jobs (Berlin-centric because I live there but lots of sites are worldwide, too)</h4>
 <ul>
 <li><a href="https://angel.co/">AngelList</a></li>
 </ul>
