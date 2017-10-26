@@ -47,5 +47,4 @@
 <li><a href="https://www.youtube.com/user/derekbanas">Derek Banas</a></li>
 <li><a href="http://codepen.io/j-w-v/post/25-learn-to-code-focused-youtube-channels">25 'Learn To Code' Focused YouTube channels</a></li>
 </ul>
-
-
+</ol>
