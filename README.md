@@ -3,7 +3,6 @@
 <h3>Table of Contents</h3>
 <ol>
 <li><a href='#bootcamp'>Bootcamp Style</a></li>
-<li><a href ='#books'>Books</a></li>
 <li><a href='#youtube'>YouTube Channels</a></li>
 <li><a href='#css'>CSS</a></li>
 <li><a href='#javascript'>JavaScript</a></li>
